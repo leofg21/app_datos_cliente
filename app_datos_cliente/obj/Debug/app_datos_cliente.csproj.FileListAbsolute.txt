@@ -1,0 +1,16 @@
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\app_datos_cliente.exe.config
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\app_datos_cliente.exe
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\app_datos_cliente.pdb
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\Newtonsoft.Json.dll
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\RestSharp.dll
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\Newtonsoft.Json.xml
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\RestSharp.xml
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.csprojAssemblyReference.cache
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.Form1.resources
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.Properties.Resources.resources
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.csproj.GenerateResource.cache
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.csproj.CopyComplete
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.exe
+C:\Users\might\source\repos\app_datos_cliente\app_datos_cliente\obj\Debug\app_datos_cliente.pdb
